@@ -10,6 +10,7 @@ namespace ExamConsole
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("");
         }
     }
 }
